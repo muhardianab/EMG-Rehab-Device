@@ -1,0 +1,19 @@
+
+% % variable X
+% column 1 = rms
+% column 2 = kurtosis
+% column 3 = skewness 
+% column 4 = mean_pdg
+% column 5 = iemg(integrated EMG)
+% column 6 = MAV(mean absolute value)
+% column 7 = SSI(simple square integral)
+% column 8 = VAR(variance of EMG)
+
+rms()
+kurtosis()
+skewness()
+mean(periodogram())                 % PSD estimated using periodogram
+mean(abs())                         % iemg
+(1/1000)*(mean(abs()))              % mav
+mean((abs()).^2)                    % ssi
+(1/(1000-1))*(mean(().^2))          % var

@@ -22,4 +22,4 @@ Reference :
 3. https://github.com/vtshitoyan/simpleNN
 
 
-If you want to know more detail about my final project, just message or email me
+If you want to know more detail about my final project, just email me muhammadardian.ab@gmail.com

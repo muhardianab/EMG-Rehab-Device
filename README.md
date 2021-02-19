@@ -1,6 +1,7 @@
 # EMG-Rehab-Device
 This is repository about my Final Project Program, 
 Design and Build of Medical Rehabilitation Device for People with Paralysis on Hand Based on EMG Sensor
+
 ![Final Project Implementation](https://github.com/muhardianab/EMG-Rehab-Device/blob/master/Final_Project_End.png?raw=true)
 
 This device help people with paralysis on hand to strength his/her hand and as a rehabilitation to recover his/her hand back to normal and healthy
@@ -19,3 +20,6 @@ Reference :
 1. https://github.com/mark-toma/MyoMex
 2. https://github.com/Lif3line/Myo-MATLAB-Interface-EMG-GYRO-ACCEL
 3. https://github.com/vtshitoyan/simpleNN
+
+
+If you want to know more detail about my final project, just message or email me

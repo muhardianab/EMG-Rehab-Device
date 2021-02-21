@@ -4,9 +4,6 @@ Design and Build of Medical Rehabilitation Device for People with Paralysis on H
 
 ![Final Project Implementation](https://github.com/muhardianab/EMG-Rehab-Device/blob/master/Final_Project_End.png?raw=true)
 
-
-https://drive.google.com/file/d/1FIAEfqolDaUaeM2bAFoI_gTLmwMgSt74/view?usp=sharing
-
 This device help people with paralysis on hand to strength his/her hand and as a rehabilitation to recover his/her hand back to normal and healthy
 
 A person with a disability cannot do work freely or is limited, one of which is paralysis of the hand caused by a stroke or spinal injury. 
@@ -25,6 +22,6 @@ Reference :
 3. https://github.com/vtshitoyan/simpleNN
 
 #### Here are the video I've documented
-https://drive.google.com/file/d/1FIAEfqolDaUaeM2bAFoI_gTLmwMgSt74/view?usp=sharing
+[Final Project Competition - Design and Build of Medical Rehabilitation Device for People with Paralysis on Hand Based on EMG Sensor](https://drive.google.com/file/d/1FIAEfqolDaUaeM2bAFoI_gTLmwMgSt74/view?usp=sharing)
 
 If you want to know more detail about my final project, just email me muhammadardian.ab@gmail.com

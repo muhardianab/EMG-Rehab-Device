@@ -24,7 +24,7 @@ Reference :
 #### Here are the video I've documented
 [Final Project Competition - Design and Build of Medical Rehabilitation Device for People with Paralysis on Hand Based on EMG Sensor](https://drive.google.com/file/d/1FIAEfqolDaUaeM2bAFoI_gTLmwMgSt74/view?usp=sharing)
 
-And here are demo video of my project when I and my team participated on PKM KC 2020
+And here are demo video of my project when I and my team participated on 
 [PKM KC 2020 PENS | Sarung Tangan Medis sebagai Alat Rehabilitasi Tangan Lumpuh akibat Stroke 
 dan Cedera Tulang Belakang menggunakan Sensor EMG](https://youtu.be/QyZ4WsFkAiQ)
 

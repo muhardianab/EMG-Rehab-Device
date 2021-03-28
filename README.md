@@ -16,16 +16,21 @@ The system used in the tool is a pattern recognition system to be able to classi
 The classifications used are Back Propagation Artificial Neural Network (BPANN) and linear regression with 720 training data and 180 testing data. 
 The resulting accuracy is 83.89% in offline testing. For online testing itself, it produces 74% accuracy with 50 trials in 5 classes.
 
-Reference :
-1. https://github.com/mark-toma/MyoMex
-2. https://github.com/Lif3line/Myo-MATLAB-Interface-EMG-GYRO-ACCEL
-3. https://github.com/vtshitoyan/simpleNN
+## Datasets
+There are 2 datasets based on code used for data taken,
+1. Dataset 1 use https://github.com/mark-toma/MyoMex
+2. Dataset 2 use https://github.com/Lif3line/Myo-MATLAB-Interface-EMG-GYRO-ACCEL
 
-#### Here are the video I've documented
+## Methods
+There are 8 sensors or channels on Myo Armband and each sensor is extracted into 8 features. Those features were trained using NN from https://github.com/vtshitoyan/simpleNN
+
+## Documentation
+Here are the video I've documented
+
 [Final Project Competition - Design and Build of Medical Rehabilitation Device for People with Paralysis on Hand Based on EMG Sensor](https://drive.google.com/file/d/1FIAEfqolDaUaeM2bAFoI_gTLmwMgSt74/view?usp=sharing)
 
 And here are demo video of my project when I and my team participated on 
 [PKM KC 2020 PENS | Sarung Tangan Medis sebagai Alat Rehabilitasi Tangan Lumpuh akibat Stroke 
 dan Cedera Tulang Belakang menggunakan Sensor EMG](https://youtu.be/QyZ4WsFkAiQ)
 
-If you want to know more detail about my final project, just email me muhammadardian.ab@gmail.com
+If you want to know more detail about my final project, just email me to muhammadardian.ab@gmail.com

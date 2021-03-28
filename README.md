@@ -2,7 +2,7 @@
 This repository is about my Final Project Program, 
 Design and Build of Medical Rehabilitation Device for People with Paralysis on Hand Based on EMG Sensor
 
-![Final Project Implementation](https://github.com/muhardianab/EMG-Rehab-Device/blob/master/Final_Project_End.png?raw=true)
+![Final Project Implementation](https://github.com/muhardianab/EMG-Rehab-Device/blob/master/Final_Project_End.png?raw=true =100x)
 
 This device help people with paralysis on hand to strength his/her hand and as a rehabilitation to recover his/her hand back to normal and healthy
 
@@ -18,8 +18,8 @@ The resulting accuracy is 83.89% in offline testing. For online testing itself, 
 
 ## Datasets
 There are 2 datasets based on code used for data taken,
-1. Dataset 1 use https://github.com/mark-toma/MyoMex
-2. Dataset 2 use https://github.com/Lif3line/Myo-MATLAB-Interface-EMG-GYRO-ACCEL
+1. Dataset 1 use code from https://github.com/mark-toma/MyoMex
+2. Dataset 2 use code from https://github.com/Lif3line/Myo-MATLAB-Interface-EMG-GYRO-ACCEL
 
 ## Methods
 There are 8 sensors or channels on Myo Armband and each sensor is extracted into 8 features. Those features were trained using NN from https://github.com/vtshitoyan/simpleNN

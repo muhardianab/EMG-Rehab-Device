@@ -28,6 +28,7 @@ There are 8 sensors or channels on Myo Armband and each sensor is extracted into
 Here are the video I've documented
 
 [Final Project Competition - Design and Build of Medical Rehabilitation Device for People with Paralysis on Hand Based on EMG Sensor](https://drive.google.com/file/d/1FIAEfqolDaUaeM2bAFoI_gTLmwMgSt74/view?usp=sharing)
+[Full Documentation of Project of How to use the Device and How the System Works](https://drive.google.com/file/d/12BHxbRAmfArT8-DmjGPEBordIdNrlH13/view?usp=sharing)
 
 And here are demo video of my project when I and my team participated on 
 [PKM KC 2020 PENS | Sarung Tangan Medis sebagai Alat Rehabilitasi Tangan Lumpuh akibat Stroke 

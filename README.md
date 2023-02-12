@@ -17,9 +17,9 @@ The classifications used are Back Propagation Artificial Neural Network (BPANN) 
 The resulting accuracy is 83.89% in offline testing. For online testing itself, it produces 74% accuracy with 50 trials in 5 classes.
 
 ## Datasets
-There are 2 datasets based on code used for data taken,
-1. Dataset 1 use code from https://github.com/mark-toma/MyoMex
-2. Dataset 2 use code from https://github.com/Lif3line/Myo-MATLAB-Interface-EMG-GYRO-ACCEL
+There are 2 datasets based on the code are used to take the data,
+1. Dataset 1 is using code from https://github.com/mark-toma/MyoMex
+2. Dataset 2 is using code from https://github.com/Lif3line/Myo-MATLAB-Interface-EMG-GYRO-ACCEL
 
 ## Methods
 There are 8 sensors or channels on Myo Armband and each sensor is extracted into 8 features. Those features were trained using NN from https://github.com/vtshitoyan/simpleNN
@@ -29,8 +29,7 @@ Here are the video I've documented
 
 * [Final Project Competition - Design and Build of Medical Rehabilitation Device for People with Paralysis on Hand Based on EMG Sensor](https://drive.google.com/file/d/1FIAEfqolDaUaeM2bAFoI_gTLmwMgSt74/view?usp=sharing)
 
-* [Full Documentation of Project of How to use the Device and How the System Works](https://drive.google.com/file/d/12BHxbRAmfArT8-DmjGPEBordIdNrlH13/view?usp=sharing)
-
+* [Full Documentation of Project of How to use the Device and How the System Works](https://drive.google.com/file/d/1VmjFpiXKeXp_jdfvws1TOdeX5TozW1P3/view?usp=share_link)
 And here are demo video of my project when I and my team participated on 
 [PKM KC 2020 PENS | Sarung Tangan Medis sebagai Alat Rehabilitasi Tangan Lumpuh akibat Stroke 
 dan Cedera Tulang Belakang menggunakan Sensor EMG](https://youtu.be/QyZ4WsFkAiQ)
